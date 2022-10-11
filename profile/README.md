@@ -1,0 +1,3 @@
+Hello! Welcome to the Apollo Server integrations community GitHub organization. This is a shared space where community maintainers can choose to keep their integration repositories. We also have a shared NPM scope [@as-integrations](https://www.npmjs.com/search?q=%40as-integrations) where we publish our packages.
+
+If you'd like to get involved as a maintainer or create a new integration here, please reach out to one of the existing maintainers or open an issue in the [Apollo Server repository](https://github.com/apollographql/apollo-server).
